@@ -12,6 +12,9 @@ public:
 	}
 
 	void instert() {
-
+		int num;
+		cout << "Enter a Number: ";
+		cin >> num;
+		cout << endl;
 	}
 };
